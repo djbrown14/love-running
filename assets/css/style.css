@@ -186,6 +186,15 @@ hr {
     color: #fafafa;
 }
 
+/* Gallery page */
+#photos img {
+    width: 100%;
+}
+
+#phtots {
+    line-height: 0;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
